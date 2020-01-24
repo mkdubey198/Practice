@@ -6,8 +6,7 @@ public class GitConcept {
 		System.out.println("Git Concept Discussed with NP");
 		System.out.println("Git Concept Discussed with NP");
 		System.out.println("Git Concept Discussed with NP - 3");
-		System.out.println("Git Concept Discussed with NP - 34");
-		System.out.println("Git Concept Discussed with NP - 35123");
+
 	}
 
 }
